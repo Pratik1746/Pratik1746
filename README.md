@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...Google 
 - 📫 How to reach me ...parsepratik889@gmail.com
 - 😄 Pronouns: ...just pratik 
-- ⚡ Fun fact: ...i am an extra thinker
+- ⚡ Fun fact: ...Most active between 11 PM and 3 AM
 
 <!---
 Pratik1746/Pratik1746 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
