@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pratik1746
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...c parograming
-- 💞️ I’m looking to collaborate on ...Google 
+- 🌱 I’m currently learning ...C++ programming language
+- 💞️ I’m looking to collaborate on ...Google , blackrock
 - 📫 How to reach me ...parsepratik889@gmail.com
 - 😄 Pronouns: ...just pratik 
 - ⚡ Fun fact: ...Most active between 11 PM and 3 AM
