@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...Google , blackrock
 - 📫 How to reach me ...parsepratik889@gmail.com
 - 😄 Pronouns: ...just pratik 
-- ⚡ Fun fact: ...Most active between 11 PM and 3 AM
+- ⚡ Fun fact: ...Most active between 11PM to 3 AM
 
 <!---
 Pratik1746/Pratik1746 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
